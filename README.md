@@ -1,1 +1,1 @@
-# Data-Structures-and-Programming-Computer-science-2019
+# Data Structures and Programming course Computer science 2019
