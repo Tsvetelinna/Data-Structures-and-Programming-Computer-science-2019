@@ -10,11 +10,43 @@
 
 ## Stack
 
+```
+* empty
+* size
+* push
+* top
+* emplace
+* pop
+* swap
+```
+
 ### Задача 3:
 Напишете функция, която прочита от файл израз от скоби и валидира дали те са правилно подредени. За израз с правилно подредени скоби се счита израз, в който за всяка отваряща скоба съотвества завтваряща такава. Допускат се следните видове скоби: ‘(‘, ‘)’, ‘[‘, ‘]’, ‘{‘, ‘}’, ‘<’, ‘>’. 
 
-## Forward_List && List
+## Forward_List 
 
+```
+* empty
+* max_size
+* front
+* assign
+* emplace_front
+* push_front
+* pop_front
+* emplace_after
+* insert_after
+* erase_after
+* swap
+* resize
+* clear
+* remove
+* remove_if 
+* unique
+* merge
+* sort
+* reverse
+
+```
 
 ## Бонус
 
