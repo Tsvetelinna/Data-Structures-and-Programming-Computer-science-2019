@@ -4,7 +4,7 @@ using namespace std;
 void addElement(int position, int element, list<int>& myList) {
 
     if(myList.size() < position) {
-        cout << "List size is smaller than position:" << position << endl;
+        cout << "List`s size is smaller than position:" << position << endl;
     }
 
     list<int>::iterator it = myList.begin(); 
