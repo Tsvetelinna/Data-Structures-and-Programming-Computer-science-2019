@@ -19,7 +19,6 @@ dllnode<int>* createDLList(int n) {
 
 	while(n > 0) {
 		curr->next = new dllnode<int>(--n, nullptr, curr);
-		curr->prev = curr;
 		curr = curr->next;
 	}
 
